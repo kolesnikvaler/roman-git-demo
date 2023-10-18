@@ -1,6 +1,4 @@
-Valeriy was here HEADER
-SHIT Another SHIT Changed in GITHUB
-PULL me
+master
 
 hello world!
 
